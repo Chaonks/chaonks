@@ -4,7 +4,9 @@
 [![LinkEdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ricardo-ribeiro-santos)
 [![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaonks@gmail.com)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaonks&show_icons=true&theme=transparent&bg_color=1C1C1C&border_color=30A3DC&title_color=&text_color=FFF)
+## Estatísticas
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaonks&show_icons=true&theme=transparent&bg_color=1C1C1C&border_color=30A3DC&title_color=&text_color=FFF&hide_title=true)
 
 ## Habilidades
 
