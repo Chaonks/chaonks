@@ -1,5 +1,7 @@
-### Olá! Eu sou Ricardo Santos
+ ## Olá! Eu sou Ricardo Santos
+<hr>
 
+## Contato
 
 [![LinkEdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ricardo-ribeiro-santos)
 [![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaonks@gmail.com)
