@@ -11,11 +11,11 @@
 <div style="display: inline_block"></br>
   <img height="50" width="" align="center"alt="java"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
   <img height="70" width="" align="center"alt="mysql"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />&nbsp;&nbsp;&nbsp;
-  <img height="35" width="" align="center"alt="spring"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> &nbsp;&nbsp;
-  <img height="70" width="" align="center"alt="junit"src="https://avatars.githubusercontent.com/u/874086?s=200&v=4" />&nbsp;&nbsp;
-  <img height="80" width="" align="center"alt="git"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />&nbsp;
-  <img height="40" width="" align="center"alt="github"src="https://cdn-icons-png.flaticon.com/512/270/270798.png" />&nbsp;&nbsp;
-  <img height="40" width="" align="center"alt="postman"src="https://www.svgrepo.com/show/354202/postman-icon.svg" />
+  <img height="30" width="" align="center"alt="spring"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> &nbsp;&nbsp;
+  <img height="65" width="" align="center"alt="junit"src="https://avatars.githubusercontent.com/u/874086?s=200&v=4" />&nbsp;&nbsp;
+  <img height="70" width="" align="center"alt="git"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />&nbsp;
+  <img height="35" width="" align="center"alt="github"src="https://cdn-icons-png.flaticon.com/512/270/270798.png" />&nbsp;&nbsp;
+  <img height="35" width="" align="center"alt="postman"src="https://www.svgrepo.com/show/354202/postman-icon.svg" />
               
 </div></br>
 
