@@ -23,7 +23,7 @@
               
 </div></br>
 
-Atuando na área de tecnologia a mais de vinte anos, gostaria de aplicar experiência adquirida no mundo da programação.
+ Surpreender o mundo através de aplicaçoes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaonks&layout=donut-vertical&bg_color=1C1C1C&border_color=30A3DC&title_color=&text_color=FFF)](https://github.com/Chaonks/github-readme-stats)
 
